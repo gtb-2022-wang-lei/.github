@@ -10,7 +10,8 @@ And this is spike
 
 <img src="https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/spike-smoke.png" width = 50% height = 50% />
 
-this is another "Spike" ^v^
+This is another "Spike" ^v^
 
-![](https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/myphoto.jpg)
+<img src="https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/myphoto.jpg" width = 50% height = 50% />
+
 

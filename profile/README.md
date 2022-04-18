@@ -9,4 +9,7 @@ So all my  online id are spike~
 And this is spike
 
 ![](https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/spike-smoke.png)
+And this is another "Spike" ^v^
+
+![](https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/myphoto.jpg)
 

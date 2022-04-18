@@ -8,5 +8,5 @@ So all my  online id are spike~
 
 And this is spike
 
-![](F:\GTB-Dev-Homeworks\step-01\git-profile\.github\profile\resources\spike-smoke.png)
+![](https://github.com/gtb-2022-wang-lei/.github/blob/main/profile/resources/spike-smoke.png)
 
